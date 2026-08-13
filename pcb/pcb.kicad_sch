@@ -2400,6 +2400,52 @@
 			)
 		)
 	)
+	(sheet
+		(at 184.15 24.13)
+		(size 74.93 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e9997511-3ecb-4c5e-b835-084d1eaf312d")
+		(property "Sheetname" "a4988_driver"
+			(at 184.15 23.4184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "a4988_driver.kicad_sch"
+			(at 184.15 66.6246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pcb"
+				(path "/d87b7c2d-20e2-4e6c-83ca-351ab246585b"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
