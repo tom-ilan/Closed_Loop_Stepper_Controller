@@ -705,7 +705,7 @@
         "uuid": "d87b7c2d-20e2-4e6c-83ca-351ab246585b"
       }
     ],
-    "used_designators": "#FLG1-2,U1-3,C_small1,R1-9,D1-2,C1-7,#PWR1-28,J1-3,0.2,SW1",
+    "used_designators": "#FLG1-7,U1-5,C_small1,R1-11,D1-2,C1-9,#PWR1-44,J1-3,0.2,SW1",
     "variants": []
   },
   "sheets": [
@@ -720,6 +720,10 @@
     [
       "4e43e36b-2dee-4514-b6f3-864db1f51721",
       "74hc595"
+    ],
+    [
+      "356ec726-45e7-4033-a69b-6c6c002e2837",
+      "as5600"
     ]
   ],
   "text_variables": {},
