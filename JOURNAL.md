@@ -33,4 +33,3 @@ After alot of issues with my solder wick getting caught and over soldering joint
 Bellow is an image of the as5600 magnetic angle encoder working and part of the code used to test it.
 
 ** Total time spent 1 hour ** 
-
